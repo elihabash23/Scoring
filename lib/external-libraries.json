@@ -1,16 +1,5 @@
 {
-  "gitReferences": {
-    "scoring": {
-      "remote": "git@github.com:elihabash23/test-library.git",
-      "checkout": "refs/heads/main",
-      "remotePath": "",
-      "lastHash": "03b26bdc8a1e7547c78a219b5938f6cb4a9b0bba",
-      "conflictingFiles": [],
-      "resolvedFiles": [],
-      "faultyHash": "",
-      "isDirty": false
-    }
-  },
+  "gitReferences": {},
   "pythonPath": [
     "python",
     "scoring"
