@@ -11,7 +11,24 @@
   "hasSetupSection": false,
   "owner": "admin",
   "permissionsVersion": "LEGACY",
-  "permissions": [],
+  "permissions": [
+    {
+      "user": "nonadmin",
+      "admin": false,
+      "readProjectContent": false,
+      "writeProjectContent": true,
+      "exportDatasetsData": true,
+      "readDashboards": false,
+      "writeDashboards": false,
+      "moderateDashboards": false,
+      "shareToWorkspaces": true,
+      "runScenarios": false,
+      "manageDashboardAuthorizations": false,
+      "manageExposedElements": false,
+      "manageAdditionalDashboardUsers": false,
+      "executeApp": false
+    }
+  ],
   "additionalDashboardUsers": {
     "users": []
   },
@@ -194,11 +211,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 77,
+    "versionNumber": 78,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1674850000957
+    "lastModifiedOn": 1675123560077
   },
   "creationTag": {
     "versionNumber": 0,
