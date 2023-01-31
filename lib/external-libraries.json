@@ -4,6 +4,10 @@
       "remote": "git@github.com:elihabash23/test-library.git",
       "checkout": "refs/heads/main",
       "remotePath": "",
+      "lastHash": "0f4620b94955e4ebb7a52f8a72e63e2d88656de5",
+      "conflictingFiles": [],
+      "resolvedFiles": [],
+      "faultyHash": "",
       "isDirty": false
     }
   },
